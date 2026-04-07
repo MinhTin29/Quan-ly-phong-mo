@@ -22,7 +22,7 @@ st.sidebar.markdown("""
         display: block;
     }
     </style>
-    <div class='sidebar-title'>🏥 Quản lý Phòng mổ và DSA</div>
+    <div class='sidebar-title'>🏥 Phòng mổ và DSA</div>
     """, unsafe_allow_html=True)
 
 if not st.session_state.auth:
