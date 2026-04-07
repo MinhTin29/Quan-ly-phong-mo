@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#A1DADD"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#000000"
+base = "light" # Ép hệ thống dùng Light Mode
